@@ -1,6 +1,11 @@
 /* Your Website Styles */
 
-
+nav{
+  background: rgba(255,0,0,.5);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
 /* Gallery Stying */
 .gallery .control-button {
