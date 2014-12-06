@@ -1,5 +1,4 @@
-/* Your Website Styles */
-
+/* Your Website Styles*/
 nav{
   background: rgba(255,0,0,.5);
   position: fixed;
@@ -7,7 +6,11 @@ nav{
   width: 100%;
 }
 
-/* Gallery Stying */
+body{
+  background: #000;
+}
+
+/* Gallery Stying *
 .gallery .control-button {
   color: #ccc;
   color: rgba(255, 255, 255, 0.4);
@@ -20,7 +23,7 @@ nav{
 
 /*
 	Theme controls how everything looks in Gallery CSS.
-*/
+*
 .gallery {
   position: relative;
 }
@@ -29,6 +32,7 @@ nav{
   overflow: hidden;
   text-align: center;
   background: #4d87e2;
+  position: absolute;
 }
 .gallery .controls {
   position: absolute;
