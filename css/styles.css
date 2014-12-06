@@ -21,12 +21,19 @@ h1{
 
 img{
   margin-bottom: 100px;
+  transition: transform 1s;
+
+}
+
+img:hover{
+  transform: scaleY(3) scaleX(3);
+  transition: transform 2s;
+
 }
 
 a, em{
   color: #3E3E40;
   margin-right: 50px;
-
 }
 
 a{
