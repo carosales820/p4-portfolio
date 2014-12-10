@@ -1,54 +1,5 @@
 /* Your Website Styles*/
-nav{
-  margin-top: 10px;
-  margin-bottom: 10px;
-  background: #002434;
-  opacity: .8;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
 
-body{
-  background: #000;
-}
-
-h1{
-  color: #3E3E40;
-  background: #002434;
-  margin-top: 100px;
-}
-
-img{
-  margin-bottom: 100px;
-  transition: transform 1s;
-
-}
-
-img:hover{
-  transform: scaleY(3) scaleX(3);
-  transition: transform 2s;
-
-}
-
-a, em{
-  color: #3E3E40;
-  margin-right: 50px;
-}
-
-a{
-  text-decoration: none;
-  font-family: 'Cardo', serif;
-
-}
-
-a:hover{
-  color: white;
-  font-family: 'Cardo:italic', serif;
-  font-variant: small-caps;
-}
 
 
 
